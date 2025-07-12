@@ -13,15 +13,10 @@ Android Developer
 
 <p align="left">
 <img src="https://www.htmlhints.com/image/tutorial/vsCode.png" width="110" height="36" alt="VS Code" />
-
     <img src="https://cloud.google.com/static/cpp/images/cpp-logo.png" width="110" height="36" alt="C++" />
-
     <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" width="110" height="36" alt="GitHub-logo"/>
-
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" width="110" height="36" alt="Git" />
-
     <img src="https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" width="110" height="36" alt="Postman" />
-
     <img src="https://camo.githubusercontent.com/26e74d6ef4bb4726fc8f8a6b3d4136376d691ecf85c8d3b464bfbf4259e5698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" width="110" height="36" alt="Java" />
 
     <img src="https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" width="110" height="36" alt="Linux" />

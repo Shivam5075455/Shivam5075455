@@ -26,6 +26,7 @@ Full Stack Web Developer
     <img src="https://github.com/Shivam5075455/Shivam5075455/blob/main/Firebase%20logo.png?raw=true" width="110" height="36" alt="Filebase" />
     <img src="https://www.liblogo.com/img-logo/ar185a5fd-arduino-logo-arduino-logo--com.png" width="110" height="36" alt="Arduino" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZr1m8hoY7sQ7s6FMY9kQTSTJsRDjMAo7row&s" width="110" height="36" alt="MySql" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYvtnOKejWZZwRP9cSsvNgB3fpTQpVDytoA&s" width="110" height="36" alt="Android Studio" />
 </p>
 
 
